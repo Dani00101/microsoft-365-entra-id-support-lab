@@ -7,6 +7,10 @@ Dette er et praktisk homelab-prosjekt bygget for å utvikle ferdigheter innen Mi
 
 Labmiljøet simulerer vanlige administrative oppgaver og supportsaker i et Microsoft 365-miljø, blant annet brukeradministrasjon, lisensiering, grupper, MFA, Conditional Access, delegerte administratorroller, onboarding/offboarding og Exchange Online.
 
+## Arkitekturdiagram
+
+![Microsoft 365 og Entra ID arkitektur](network-diagram/m365-entra-architecture.png)
+
 ## Teknologier og tjenester
 
 - Microsoft 365 Business Premium
